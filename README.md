@@ -1,5 +1,6 @@
 # WIFI-DOS
 A simple WiFi deauthentication tool written in Python.
+#
 ![FIRST RUN OF MY TOOL](https://raw.githubusercontent.com/mkdirlove/WIFI-DOS/main/wifi-dos.gif)
 #
 # INSTALLATION
